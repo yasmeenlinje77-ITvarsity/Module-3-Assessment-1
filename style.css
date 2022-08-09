@@ -17,6 +17,14 @@ background-image: url('images/background-01-port.png');
   background-size: cover;
 }
 
+.body-meals{
+background-image: url('images/background-02-port.png');
+  background-position:center;
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
 /==========Home Page====/
 
 #home-logo-img{
@@ -64,6 +72,14 @@ border: 5px solid #1a1aqa;
   color:1a1a1a;
   padding-left:10px;
 }
+
+.meals-list-items i{
+float:right;
+  color: #1a1a1a;
+  padding-right:20px;
+
+}
+
 
 .meals-list-items p{
 font-size: 15px;
