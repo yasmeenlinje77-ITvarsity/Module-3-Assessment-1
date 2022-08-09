@@ -25,7 +25,34 @@ background-image: url('images/background-02-port.png');
   background-size: cover;
 }
 
-/==========Home Page====/
+/==========Header======/
+
+.header{
+background-color:2196f3;
+width: 100% ;
+height: 50px;
+  top: 0;
+  
+  position: fixed;
+  overflow: hidden;
+  
+  text-align:center;
+
+}
+.header i{
+float:left;
+  padding: 17px 0px 0px 17px;
+  color: #ffffff;
+}
+.header img{
+width: 150px;
+  padding-top:14px;
+  padding-right:25px;
+  
+}
+
+
+/==========Home Page======/
 
 #home-logo-img{
 width: 50px;
@@ -42,6 +69,7 @@ width: auto;
 }
 
 /===home page menue===/
+
 .home-menu-item{
   text-decoration:none;
   text-transformation:uppercase;
@@ -57,23 +85,27 @@ color: white;
   width: 80%;
 }
 
-/==========Home Page====/
+/==========Meals Page====/
+#meals{
+padding-top: 50px;
+}
+/==========Meals Page menu====/
 
-
+.meals-list-items a{
   text-decoration: none;
 }
-.meals-list-items{
-border: 5px solid #1a1aqa;
+.meals-list-item{
+border: 5px solid #1a1a1a;
   margin: 10px;
 }
-.meals-list-items h1{
+.meals-list-item h1{
   font-wieght: bold;
   font-size: 20px;
   color:1a1a1a;
   padding-left:10px;
 }
 
-.meals-list-items i{
+.meals-list-item i{
 float:right;
   color: #1a1a1a;
   padding-right:20px;
