@@ -10,7 +10,11 @@ font-family:sans-serif;
   height: 100%;
 }
 .body-home{
-background-image:url('images/')
+background-image: url('images/background-01-port.png');
+  background-position:center;
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
 }
 
 /==========Home Page====/
@@ -20,11 +24,11 @@ background-image:url('images/')
   text-decoration:none;
   text-transformation:uppercase;
 
-color:black;
+color: white;
   font-size:25px;
   font-weight:bold;
   text-align:center;
-  border:5px solid black;
+  border:5px solid white;
   display: block;
   margin: auto;
   margin-bottom: 10px;
