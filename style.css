@@ -208,10 +208,10 @@ margin:auto;}
 
 @media only screen and (min-width: 720px) {
   .body-home{
-  background-image:url('image/background-01-land.png');
+  background-image:url('images/background-01-land.png');
   }
   .body-meals{
-  background-image: url('image/background-02-land.png');
+  background-image: url('images/background-02-land.png');
   }
 }
 
