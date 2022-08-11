@@ -159,7 +159,10 @@ font-size:20px;
   display:inline-block;
 }
 
-
+.recipe-details-ingredients labels{
+line-height:25px;
+  margin left:10px;
+}
 
 
 
