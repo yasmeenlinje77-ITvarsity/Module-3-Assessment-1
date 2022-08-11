@@ -163,9 +163,14 @@ font-size:20px;
 line-height:25px;
   margin left:10px;
 }
+.recipe-details-step{
+padding-top:20px;
+}
 
+.recipe-details-step ol{
+padding-left:28px;
 
-
+}
 
 
 
