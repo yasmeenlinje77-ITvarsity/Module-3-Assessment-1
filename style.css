@@ -147,10 +147,21 @@ margin-left:25%;
 margin-right:25px;
 }
 
+.recipe-details h2{
+font-size:20px;
+  text-align: left;
+  margin: 0;
+  margin-left:10px;
+}
+
 .recipe-details-info p{
   font-size:13px;
   display:inline-block;
 }
+
+
+
+
 
 
 
