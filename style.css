@@ -172,8 +172,43 @@ padding-left:28px;
 
 }
 
+/==========Recipe details====/
 
+@media only screen and (min-width: 1000px) {
+  #meals{
+  width:80%}
+  margin: auto;
+}
+#recipe{
+width:80%;
+margin:auto;}
+}
 
+@media only screen and (min-width: 1500px) {
+#meals{
+  width:60%}
+  margin: auto;
+}
+#recipe{
+width:60%;
+margin:auto;}
+}
+}
+
+@media only screen and (min-width: 1500px) {
+#meals{
+  width:40%}
+  margin: auto;
+}
+#recipe{
+width:40%;
+margin:auto;}
+}
+}
+
+@media only screen and (min-width: 720px) {
+  .body-home{
+  background-image:url'image/'}
 
 
 
