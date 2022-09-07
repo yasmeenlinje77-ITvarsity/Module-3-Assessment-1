@@ -9,6 +9,8 @@ font-family:sans-serif;
   padding: 0;
   height: 100%;
 }
+
+
 .body-home{
 background-image: url('images/background-01-port.png');
   background-position:center;
@@ -16,6 +18,7 @@ background-image: url('images/background-01-port.png');
   background-repeat:no-repeat;
   background-size: cover;
 }
+
 
 .body-meals{
 background-image: url('images/background-02-port.png');
