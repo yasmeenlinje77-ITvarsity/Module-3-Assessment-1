@@ -11,65 +11,6 @@ font-family: sans-serif;
 }
 
 
-.body-home{
-background-image: url('images/background-01-port.png');
-  background-position:center;
-  background-attachment: fixed;
-  background-repeat:no-repeat;
-  background-size: cover;
-}
-
-.body-meals{
-background-image: url('images/background-02-port.png');
-  background-position:center;
-  background-attachment: fixed;
-  background-repeat:no-repeat;
-  background-size: cover;
-}
-
-
-/==========Header======/
-
-.header{
-background-color:2196f3;
-width: 100% ;
-height: 50px;
-  top: 0;
-  
-  position: fixed;
-  overflow: hidden;
-  
-  text-align:center;
-
-}
-.header i{
-float:left;
-  padding: 17px 0px 0px 17px;
-  color: #ffffff;
-}
-.header img{
-width: 150px;
-  padding-top:14px;
-  padding-right:25px;
-  
-}
-
-
-/==========Home Page======/
-
-#home-logo-img{
-width: 50px;
-dispaly: block;
-  margin: auto;
-  padding:25px  10px  10px  10px;
-}
-
-#home-logo-text{
-width: auto;
-  display: block;
-  margin: auto;
-  padding: 25px;
-}
 
 /===home page menue===/
 .home-menu-item{
