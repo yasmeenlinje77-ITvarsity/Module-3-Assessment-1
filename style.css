@@ -1,3 +1,16 @@
+html{
+hieght: 100%;
+}
+
+
+body{
+font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+
 .home-menu-item{
   text-decoration: none;
   text-transform: uppercase;
