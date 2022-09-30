@@ -11,6 +11,14 @@ font-family: sans-serif;
 }
 
 
+.body-home{
+background-image: url('images/background-01-port.png');
+  background-position:center;
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
 .home-menu-item{
   text-decoration: none;
   text-transform: uppercase;
