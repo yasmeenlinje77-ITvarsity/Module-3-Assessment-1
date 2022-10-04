@@ -28,7 +28,27 @@ background-image: url('images/background-02-port.png');
   background-size: cover;
 }
 
+.header{
+background-color:2196f3;
+width: 100% ;
+height: 50px;
+top: 0;
+position: fixed;
+overflow: hidden;
+text-align:center;
+}
 
+.header i{
+float:left;
+  padding: 17px 0px 0px 17px;
+  color: #ffffff;
+}
+.header img{
+width: 150px;
+  padding-top:14px;
+  padding-right:25px;
+ 
+}
 .home-menu-item{
   text-decoration: none;
   text-transform: uppercase;
