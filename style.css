@@ -100,5 +100,58 @@ border: 5px solid #1a1a1a;
 float:right;
   color: #1a1a1a;
   padding-right:20px;
+}
+
+.meals-list-items p{
+font-size: 15px;
+  font-style: italic;
+  color:  4d4d4d;
+  margin-top: -7px;
+  padding-left: 10px;
+}
+
+#recipe{
+padding-top:50px;
+}
+
+.recipe-details img{
+width:100%;
+}
+
+.recipe-details h1{
+font-size: 25px;
+  text-align: center;
+  border:5px solid #1a1a1a;
+  margin:10px;
+  padding:5px;
+}
+
+.recipe-details-info{
+margin-left:25%;
+margin-right:25px;
+}
+
+.recipe-details h2{
+font-size:20px;
+  text-align: left;
+  margin: 0;
+  margin-left:10px;
+}
+
+.recipe-details-info p{
+  font-size:13px;
+  display:inline-block;
+}
+
+.recipe-details-ingredients labels{
+line-height:25px;
+  margin left:10px;
+}
+.recipe-details-step{
+padding-top:20px;
+}
+
+.recipe-details-step ol{
+padding-left:28px;
 
 }
