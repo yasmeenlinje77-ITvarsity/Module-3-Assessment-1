@@ -77,3 +77,28 @@ width: auto;
   margin-bottom: 10px;
   width: 80%;
 }
+
+#meals{
+padding-top: 50px;
+}
+
+.meals-list-items a{
+  text-decoration: none;
+}
+.meals-list-item{
+border: 5px solid #1a1a1a;
+  margin: 10px;
+}
+.meals-list-item h1{
+  font-wieght: bold;
+  font-size: 20px;
+  color:1a1a1a;
+  padding-left:10px;
+}
+
+.meals-list-item i{
+float:right;
+  color: #1a1a1a;
+  padding-right:20px;
+
+}
