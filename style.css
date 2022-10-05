@@ -52,7 +52,7 @@ width: 150px;
 
 #home-logo-img{
 width: 50px;
-dispaly: block;
+display: block;
   margin: auto;
   padding:25px  10px  10px  10px;
 }
@@ -90,7 +90,7 @@ border: 5px solid #1a1a1a;
   margin: 10px;
 }
 .meals-list-item h1{
-  font-wieght: bold;
+  font-weight: bold;
   font-size: 20px;
   color:1a1a1a;
   padding-left:10px;
@@ -174,5 +174,3 @@ margin:auto;}
 #recipe{
 width:60%;
 margin:auto;}
-}
-}
