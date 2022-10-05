@@ -110,6 +110,11 @@ font-size: 15px;
   padding-left: 10px;
 }
 
+    .meals-list-items{
+      border: 5px solid black;
+      display: block;
+    }
+
 #recipe{
 padding-top:50px;
 }
