@@ -11,7 +11,7 @@ font-family: sans-serif;
 }
 
 
-body-home{
+.body-home{
 background-image: url('images/background-01-port.png');
   background-position:center;
   background-attachment: fixed;
