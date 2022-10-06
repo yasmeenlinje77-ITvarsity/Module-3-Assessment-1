@@ -67,11 +67,11 @@ width: auto;
   text-decoration: none;
   text-transform: uppercase;
   
-  color: black;
+  color: white;
   font-size: 25px;
   font-weight: bold;
   text-align: center;
-  border: 5px solid black;
+  border: 5px solid white;
   display: block;
   margin: auto;
   margin-bottom: 10px;
@@ -86,7 +86,7 @@ padding-top: 50px;
   text-decoration: none;
 }
 .meals-list-item{
-border: 5px solid #1a1a1a;
+border: 5px solid #000000;
   margin: 10px;
 }
 .meals-list-item h1{
@@ -98,14 +98,14 @@ border: 5px solid #1a1a1a;
 
 .meals-list-item i{
 float:right;
-  color: #1a1a1a;
+  color: #000000;
   padding-right:20px;
 }
 
 .meals-list-items p{
 font-size: 15px;
   font-style: italic;
-  color:  4d4d4d;
+  color:  #000000;
   margin-top: -7px;
   padding-left: 10px;
 }
@@ -126,7 +126,7 @@ width:100%;
 .recipe-details h1{
 font-size: 25px;
   text-align: center;
-  border:5px solid #1a1a1a;
+  border:5px solid #000000;
   margin:10px;
   padding:5px;
 }
